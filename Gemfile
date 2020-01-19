@@ -39,7 +39,7 @@ group :development do
   gem 'haml'
   gem 'bootstrap'
   gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
-  gem 'bootstrap-sass', '~> 3.3.6'
+  gem 'bootstrap-sass', '~> 3.4.1'
   gem 'simple_form'
   gem 'jquery-rails' 
   gem 'jquery' 
